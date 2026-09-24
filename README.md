@@ -1,4 +1,4 @@
-# Bloom-and-Butter-Analytics
+# Skin Care-Analytics Project 
 
 This project is a Power BI dashboard developed to analyze sales performance, customer retention, and regional trends for Bloom & Butter- a growing skincare brand. The main purpose of the dashboard is not simply to display sales numbers, but to turn transactional data into information that support better business decisions. The dashboard brings together different aspects of customer and sales performance so that management can quickly understand what is happening across the business, identify areas that require attention, and recognize opportunities for growth.
 
