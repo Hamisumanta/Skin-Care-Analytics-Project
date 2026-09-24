@@ -1,16 +1,10 @@
-Project Brief Bloom & Butter - Sales Performance & Customer Analytics 
-
-Prepared by: Hamisu Umar Manta, 
-
-Data Analyst Prepared for: Steve Martinez, 
-
-Founder - Bloom & Butter 
+Project Brief - Sales Performance & Customer Analytics 
 
 Date: 10th August 2026 
 
 BACKGROUND 
 
-Bloom & Butter has seen consistent revenue growth over the past two years across three channels - direct website (Shopify), Amazon, and 12 US retail partners. However, revenue growth has not translated clearly into visible margin improvement, and the business currently lacks a structured view of which products, regions, customers, and channels are driving profitable growth versus simply generating volume. With an investor update scheduled for early September 2026, the goal of this project is to turn two years of transaction data into clear, defensible business intelligence that Steve can walk into that meeting with confidently.
+The company has seen consistent revenue growth over the past two years across three channels - direct website (Shopify), Amazon, and 12 US retail partners. However, revenue growth has not translated clearly into visible margin improvement, and the business currently lacks a structured view of which products, regions, customers, and channels are driving profitable growth versus simply generating volume. With an investor update scheduled for early September 2026, the goal of this project is to turn two years of transaction data into clear, defensible business intelligence that Steve can walk into that meeting with confidently.
 
 BUSINESS QUESTIONS 
 
@@ -66,29 +60,29 @@ Data received 8th August 2026
 
 Data review and gap check 12th–14th August 2026
 
-Hamisu flags any data issues to Steve 14th August 2026
+Flags any data issues  14th August 2026
 
 Analysis complete 24th August 2026
 
 Dashboard and report first draft delivered 24th August 2026
 
-Steve review period 24th–31st August 2026
+Review period 24th–31st August 2026
 
 Revisions complete - final delivery 1st September 2026
 
-Steve's investor meeting 5th September 2026 
+Investor meeting 5th September 2026 
 
 SUCCESS CRITERIA 
 
-This project will be considered successful if at the end Steve can: 
+This project will be considered successful if at the end can: 
 
 Point to specific products and channels that are driving margin, not just revenue 
 
-Name her highest value customer segments and describe what they look like 
+Name highest value customer segments and describe what they look like 
 
 Explain clearly where discounting is helping vs hurting the business 
 
-Walk into her investor meeting with a dashboard and a set of recommendations she can defend with data 
+Walk into investor meeting with a dashboard and a set of recommendations she can defend with data 
 
 OUT OF SCOPE 
 
@@ -100,25 +94,16 @@ Ad platform data or full CAC calculation (separate data source required)
 
 End-consumer sell-through analysis for retail partners (data not available) 
 
-Any changes to Bloom & Butter's Shopify setup or data infrastructure 
+Any changes to Shopify setup or data infrastructure 
 
 If any of these become priorities after the initial delivery, happy to scope them as a follow-on project. 
 
 NEXT STEPS 
 
-Steps
-     Responsible
-
 Review and approve this brief
- Steve
 
 Pull and send Shopify CSV export
- Steve
 
-Request and send product catalogue from Sarah
- Steve
+Request and send product catalogue
 
 Confirm a data received and begin review
- Hamisu
-
-
