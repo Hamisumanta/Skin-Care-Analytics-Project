@@ -3,9 +3,9 @@ A NOTE BEFORE YOU READ THIS 
 This report is written for you, not for a data team. The goal is by the end of it you should be able to sit in your investor meeting and talk confidently about your business using data-not just instinct.
 The dashboard covers the visuals. This document covers the so what.
 
-EXECUTIVE SUMMARY 
+EXECUTIVE SUMMARY
 
-Bloom and Butter is a healthier business than it might feel from the inside. Revenue has grown consistently from last year to July, 2026 years by 132% and a core group of champion customers is genuinely carrying significant weight. Your instinct on this was right. Two things are quietly working against you:
+This business is a healthier business than it might feel from the inside. Revenue has grown consistently from last year to July, 2026 years by 132% and a core group of champion customers is genuinely carrying significant weight. Your instinct on this was right. Two things are quietly working against you:
 Your discount strategy on daily defense 11.4% discount is destroying margin without proportional benefit by yielding 50.12% gross margin. This shows that higher discount rates are associated with lower gross margins.
 Hydrating B5 serum is generating high profit but is not getting the investment attention.
 None of these are crisis level problems. They are all fixable, and you will find exactly what I am saying when you look at the data.
