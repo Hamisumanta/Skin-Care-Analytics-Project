@@ -25,6 +25,7 @@ And where should the business focus its attention?
 
 The goal is to provide a clear, interactive, and business-focused view of Bloom & Butter's performance while demonstrating an end-to-end approach to data analysis—from transactional data through KPI development, customer segmentation, visualization, and actionable business insight.
 
-<img width="902" height="508" alt="dashboard_overview" src="https://github.com/user-attachments/assets/86148605-07bf-4375-84c3-8dbf3a6fab19" />
+<img width="902" height="508" alt="1004054340" src="https://github.com/user-attachments/assets/e73406ed-af76-40dd-bd01-494390f5747c" />
+
 <img width="882" height="504" alt="rfm_Segments" src="https://github.com/user-attachments/assets/272b988b-ddaf-445a-915a-de2be4c26914" />
 <img width="892" height="501" alt="regional_nalysis" src="https://github.com/user-attachments/assets/dadf2342-293b-4fee-811b-50049866192b" />
